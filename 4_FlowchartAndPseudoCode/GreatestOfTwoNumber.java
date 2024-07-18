@@ -10,5 +10,6 @@ public class GreatestOfTwoNumber {
     int b = sc.nextInt();
     int max = a > b ? a : b;
     System.out.println("greatest number is = " + max);
+    sc.close();
   }
 }

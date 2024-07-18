@@ -24,5 +24,6 @@ public class CalculateRootsOfQuadraticEquation {
     } else {
       System.out.println("roots are imaginary");
     }
+    sc.close();
   }
 }

@@ -23,5 +23,6 @@ public class PrimeOrNot {
         System.out.println("given number is not a prime number");
       }
     }
+    sc.close();
   }
 }

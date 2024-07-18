@@ -13,5 +13,6 @@ public class SI {
     System.out.println(
       "Simple Interest on given amount is : " + (p * r * t) / 100
     );
+    sc.close();
   }
 }
