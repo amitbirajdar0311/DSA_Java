@@ -1,0 +1,40 @@
+
+
+🌟 **1/100 Days DSA Challenge** 🌟
+
+📅 **Date**: 22-07-2024
+
+**Day 1: Diving into the Basics!** 🚀
+
+Today, I kickstarted my 100 Days DSA Challenge by covering some fundamental topics:
+
+1. **Flowchart & Pseudocode**:
+   - **Flowchart**: Visual representation of the steps in a process. Helps in understanding the flow of an algorithm. I learned how to create and interpret different flowchart symbols such as process, decision, input/output, and connectors.
+   - **Pseudocode**: A simplified, high-level version of programming code used to design algorithms. It bridges the gap between the human thought process and actual coding by outlining the logic in plain English.
+
+2. **Variables & Data Types**:
+   - **Variables**: Containers for storing data values. I explored how to declare and initialize variables, and how they hold different types of data.
+   - **Data Types**: Different kinds of data that can be stored in variables. This includes primitive types like integers, floats, characters, and booleans, as well as more complex types like strings and arrays.
+
+3. **Operators**:
+   - **Arithmetic Operators**: Used for basic mathematical operations (e.g., +, -, *, /, %).
+   - **Relational Operators**: Used to compare two values (e.g., ==, !=, >, <, >=, <=).
+   - **Logical Operators**: Used to combine multiple conditions (e.g., &&, ||, !).
+   - **Assignment Operators**: Used to assign values to variables (e.g., =, +=, -=).
+
+4. **Conditional Statements**:
+   - **If-Else Statements**: Allow for decision making in code based on conditions. I learned how to execute different blocks of code based on whether a condition is true or false.
+   - **Switch Statements**: A cleaner way to handle multiple conditions based on the value of a variable.
+
+5. **Loops (Flow Control)**:
+   - **For Loops**: Execute a block of code a specific number of times. Great for iterating over arrays or ranges.
+   - **While Loops**: Continue executing a block of code as long as a condition is true.
+   - **Do-While Loops**: Similar to while loops, but the block of code is executed at least once before the condition is tested.
+
+📚 I've attached my detailed notes for each topic below.
+
+A big thank you to #ShradhaDidi and #ApnaCollege for inspiring me to start this journey. 🙏
+
+Stay tuned for more updates on #1/100DaysDSAChallenge!
+
+                                                                        -- Amit Birajdar
