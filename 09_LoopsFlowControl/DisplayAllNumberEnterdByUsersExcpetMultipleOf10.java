@@ -12,5 +12,7 @@ public class DisplayAllNumberEnterdByUsersExcpetMultipleOf10 {
             System.out.println(n);
         }while(true);
 
+        
+
     }
 }
