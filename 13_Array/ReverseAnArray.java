@@ -20,6 +20,7 @@ public class ReverseAnArray {
             System.out.print(arr[i] + " ");
         }
     }
+    
     public static void main(String[] args){
         int[] arr = {2,4,6,8,10};
         reverseAnArray(arr);
